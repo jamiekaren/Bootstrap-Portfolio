@@ -10,7 +10,7 @@ Using Bootstrap, recreate your portfolio site with the following items:
 - [X] A responsive layout (remember the grid, rows and columns are your friends)
 - [X] Responsive images
 - [X] Your Bootstrap solution should minimize use of media queries.
-- [ ] Deploy your new Bootstrap-powered portfolio to GitHub Pages.
+- [X] Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 BONUS Using Bootstrap, make:
 - [ ] sticky footer
