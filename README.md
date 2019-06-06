@@ -7,9 +7,9 @@ To read more about my progress on this assignment, go to my 100DaysofCode repo o
 *Bootstrap Version*
 Using Bootstrap, recreate your portfolio site with the following items: 
 - [X] A navbar
-- [ ] A responsive layout (remember the grid, rows and columns are your friends)
-- [ ] Responsive images
-- [ ] Your Bootstrap solution should minimize use of media queries.
+- [X] A responsive layout (remember the grid, rows and columns are your friends)
+- [X] Responsive images
+- [X] Your Bootstrap solution should minimize use of media queries.
 - [ ] Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 BONUS Using Bootstrap, make:
